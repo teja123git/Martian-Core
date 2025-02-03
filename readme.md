@@ -1,4 +1,4 @@
-# Martian-Core-Analysis---Lohit
+# Martian-Core-Analysis
 
 ## Project Overview
 
